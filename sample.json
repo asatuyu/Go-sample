@@ -1,0 +1,21 @@
+{
+    "id" : 1,
+    "content" : "Hello World!",
+    "author" : {
+      "id" : 2,
+      "name" : "Goromaru"
+    },
+    "comments" : [
+      {
+        "id" : 1,
+        "content" : "Rugby is great sport",
+        "author" : "Matsushima"
+      },
+      {
+        "id" : 2,
+        "content" : "Try!!",
+        "author" : "Fukuoka"
+      }
+    ]
+  }
+  
